@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../dir2/src2.js"],"names":["y","obj","myfunction2","x"],"mappings":";;AAAA,IAAIA,IAAE,EAAN;AACA,IAAIC,MAAM;AACRC,aADQ,uBACIC,CADJ,EACO;AACb,WAAOA,IAAE,CAAT;AACD,GAHO;;AAIRH;AAJQ,CAAV","file":"src2.js","sourcesContent":["let y=10;\nlet obj = {\n  myfunction2(x) {\n    return x*2;\n  },\n  y\n};"]}

@@ -1,0 +1,25 @@
+{
+  "name": "babeltest",
+  "version": "1.0.0",
+  "description": "testing babel",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.2",
+    "grunt": "^1.0.1",
+    "grunt-babel": "^6.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "kotu",
+  "license": "ISC"
+}
